@@ -1,6 +1,6 @@
 # Github Action for Cross-Compile Support on Ubuntu
 
-[![CI](https://github.com/cyberjunk/gha-ubuntu-cross/actions/workflows/main.yml/badge.svg)](https://github.com/cyberjunk/gha-ubuntu-cross/actions/workflows/main.yml)
+[![CI](https://github.com/briaguya-ai/gha-ubuntu-cross/actions/workflows/main.yml/badge.svg)](https://github.com/briaguya-ai/gha-ubuntu-cross/actions/workflows/main.yml)
 
 ### Description
 
